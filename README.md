@@ -15,9 +15,9 @@
 ### There are couple things about me:
 
 
-- :seedling: I’m currently learning SQL
+- :seedling: I’m currently learning Docker 🐋
 - :heart: I love to code
-- :book: I like to read
+- :book: I like to read books
 
 ##
 
@@ -38,6 +38,7 @@
   <img align="center" alt="Fabio-Heroku" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg">
   <img align="center" alt="Fabio-Bash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" >
   <img align="center" alt="Fabio-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Fabio-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
   <img align="center" alt="Fabio-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Fabio-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Fabio-Vim" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-plain.svg">
