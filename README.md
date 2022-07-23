@@ -15,7 +15,7 @@
 ### There are couple things about me:
 
 
-- :seedling: I’m currently learning Python 🐍 and Rust 🦀
+- :seedling: I’m currently learning AWS and Rust 🦀
 - :heart: I love to code
 - :book: I like to read books
 - 📝 TDD advocate
