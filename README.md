@@ -15,7 +15,7 @@
 ### There are couple things about me:
 
 
-- :seedling: I’m currently learning AWS and Rust 🦀
+- :seedling: I’m currently learning NestJs and Rust 🦀
 - :heart: I love to code
 - :book: I like to read books
 - 📝 TDD advocate
@@ -46,6 +46,8 @@
   <img align="center" alt="Fabio-MD" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg">
   <img align="center" alt="Fabio-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fabio-Rust" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+  <img align="center" alt="Fabio-AWS" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Fabio-AWS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg">
   
 </div>
  
