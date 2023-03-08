@@ -3,14 +3,6 @@
 <h3 align="center"> Welcome to my github profile </h3>
 
 
-<p align="center">
-  <img 
-    width="450px"
-    src="https://media0.giphy.com/media/AOSwwqVjNZlDO/giphy.gif"
-  >
-</p>
-
-
 
 ### There are couple things about me:
 
