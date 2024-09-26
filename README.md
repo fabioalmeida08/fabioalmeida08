@@ -42,9 +42,5 @@
  
   ##
   
-<div> 
- 
-  ![Snake animation](https://github.com/fabioalmeida08/fabioalmeida08/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
 
