@@ -4,9 +4,9 @@
 
 ##
 
-<a href="https://github.com/fabioalmeida08">
+<!-- <a href="https://github.com/fabioalmeida08">
   <img height="180em" width='49%' src="https://github-readme-stats.vercel.app/api?username=fabioalmeida08&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width='49%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioalmeida08&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width='49%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioalmeida08&layout=compact&langs_count=7&theme=dark"/> -->
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Ansible" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg">
